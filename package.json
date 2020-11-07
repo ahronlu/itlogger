@@ -1,0 +1,17 @@
+{
+  "name": "koftov",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "heoku, json-server, node, react, redux"
+  ],
+  "dependencies": {
+    "json-server": "^0.16.2"
+  },
+  "proxy": "http://localhost:5000",
+  "author": "",
+  "license": "ISC"
+}
